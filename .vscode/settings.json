@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
